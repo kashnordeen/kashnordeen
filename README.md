@@ -29,10 +29,4 @@ I’m a Computer Science student at Thapar Institute of Engineering and Technolo
 **AI and data:** PyTorch, multimodal retrieval, pgvector  
 **Systems:** Docker, AWS IoT, Solidity
 
-## GitHub activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kashnordeen/kashnordeen/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kashnordeen/kashnordeen/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/kashnordeen/kashnordeen/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
